@@ -1,0 +1,2 @@
+# 06_Procrastinate_Pro_mobile_application
+Анализ бизнес показателей развлекательного приложения Procrastinate Pro
